@@ -353,7 +353,7 @@ die;
 	public function create_menu(){
 		$main_page 	 	  = add_menu_page( $this->menu_name, $this->menu_name, 'manage_options', str_replace( ' ', '-', $this->menu_name), array($this, 'main_menu_function'),$this->plugin_url.'images/timer.png');
 		$page_countdown	  =	add_submenu_page($this->menu_name,  $this->menu_name,  $this->menu_name, 'manage_options', str_replace( ' ', '-', $this->menu_name), array($this, 'main_menu_function'));
-		$page_countdown	  = add_submenu_page( str_replace( ' ', '-', $this->menu_name), 'Featured Plugins', 'Featured Plugins', 'manage_options', 'like-box-featured-plugins', array($this, 'featured_plugins'));
+		$page_countdown	  = add_submenu_page( str_replace( ' ', '-', $this->menu_name), 'Featured Plugins', 'Featured Plugins', 'manage_options', 'countdown-featured-plugins', array($this, 'featured_plugins'));
 		add_action('admin_print_styles-' .$main_page, array($this,'menu_requeried_scripts'));
 		add_action('admin_print_styles-' .$page_countdown, array($this,'menu_requeried_scripts'));		
 	}
