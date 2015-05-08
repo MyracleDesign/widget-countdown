@@ -17,7 +17,7 @@ You can use our Countdown timer in your posts/pages and widgets. It's very easy 
 
 ### View our WordPress Countdown plugin Demo page: 
 
-[Countdown Demo](http://demo.wpdevart.com)
+[Countdown Demo](http://demo.wpdevart.com/wordpress-countdown-demo)
 
 WordPress Countdown plugin have useful features. 
 
