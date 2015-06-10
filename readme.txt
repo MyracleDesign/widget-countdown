@@ -3,8 +3,8 @@ Contributors: wpdevart
 Donate link: http://wpdevart.com/wordpress-countdown-plugin
 Tags: countdown, count down, countdown timer, jQuery countdown, countdown generator, animated countdown, countdown widget, timer, countdown clock, wp countdown timer, event countdown, widget countdown, clock, countdown to time, countdown timer plugin, wordpress countdown, birthday countdown, html5 countdown, wp countdown,
 Requires at least: 3.4.0
-Tested up to: 4.2
-Stable tag: 1.0.0
+Tested up to: 4.2.2
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -70,11 +70,11 @@ Installing the **WordPress Countdown plugin**
 
 1. Log in to your administration panel.   
 2. Go to Plugins page, click on Add New, then click "Upload Plugin" .    
-3. Click "Choose file" then select the WordPress Countdown plugin zip file. 
-4. Then Install and activate our WordPress Countdown plugin.     
-5. Then, you can add Countdown timer from your pages/posts and widgets.
+3. Then click "Choose file" then select the WordPress Countdown plugin zip file. 
+4. Install and activate our WordPress Countdown plugin.     
+5. You can add Countdown timer from your pages/posts and widgets.
 	  
-That's all, now you can create Countdown for your pages/posts and widgets. If any problem occurs, contact us at [support@wpdevart.com](mailto:support@wpdevart.com).
+That's all, now you can create and insert Countdown timers into your pages/posts and widgets. If any problem occurs, contact us at [support@wpdevart.com](mailto:support@wpdevart.com).
 
 Also, we recommend you to take a look for this useful plugins - [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget/), [WordPress Facebook like box](http://wpdevart.com/wordpress-facebook-like-box-plugin),  [Lightbox WordPress](https://wordpress.org/plugins/wp-lightbox-2), [WordPress YouTube](https://wordpress.org/plugins/youtube-video-player), [WordPress Coming soon plugin](https://wordpress.org/plugins/coming-soon-page) .
 
@@ -129,7 +129,7 @@ Dear users, we also recommend you to take a look for this useful plugins - [Word
 *   Countdown timer border radius - Type the Countdown border radius.
 *   Countdown timer font-size - Type the Countdown text font-size.
 *   Countdown timer Font family - Choose the Countdown Font family.
-*   Countdown animation type - Choose the Countdown animation type.
+*   Countdown animation type - Choose the Countdown animation type you need.
 
 ### Adding WordPress Countdown timer in your pages/posts
 
