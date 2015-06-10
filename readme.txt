@@ -121,7 +121,7 @@ Dear users, we also recommend you to take a look for this useful plugins - [Word
 *   Countdown timer position - Select the Countdown position.
 *   Distance from top - Type the Countdown distance from top.
 *   Distance from bottom - Type the Countdown distance from bottom.
-*   Countdown timer Buttons type - Select the Countdown buttons type.
+*   Countdown timer Buttons type - Select the Countdown timer buttons type.
 *   Countdown timer text color - Choose the Countdown text color.
 *   Countdown timer background color - Choose the Countdown background color.
 *   Countdown timer Size - Type the Countdown size.
