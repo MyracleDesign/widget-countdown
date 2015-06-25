@@ -60,7 +60,7 @@ You can upgrade WordPress Countdown plugin to [WordPress Countdown Pro](http://w
 
 ### If you found any bug in our WordPress Countdown plugin or have a question contact us at support@wpdevart.com.
 
-We recommend you to take a look for this useful plugins - [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget/), [WordPress Facebook like box](http://wpdevart.com/wordpress-facebook-like-box-plugin),  [WordPress Lightbox](https://wordpress.org/plugins/wp-lightbox-2), [WordPress YouTube](https://wordpress.org/plugins/youtube-video-player), [WordPress Coming soon plugin](https://wordpress.org/plugins/coming-soon-page) .
+We recommend you to take a look for this useful plugins - [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget/), [WordPress Facebook like box](https://wordpress.org/plugins/like-box),  [WordPress Lightbox](https://wordpress.org/plugins/wp-lightbox-2), [WordPress YouTube](https://wordpress.org/plugins/youtube-video-player), [WordPress Coming soon plugin](https://wordpress.org/plugins/coming-soon-page) .
 
 == Installation ==
 
@@ -76,7 +76,7 @@ Installing the **WordPress Countdown plugin**
 	  
 That's all, now you can create and insert Countdown timers into your pages/posts and widgets. If any problem occurs, contact us at [support@wpdevart.com](mailto:support@wpdevart.com).
 
-Also, we recommend you to take a look for this useful plugins - [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget/), [WordPress Facebook like box](http://wpdevart.com/wordpress-facebook-like-box-plugin),  [Lightbox WordPress](https://wordpress.org/plugins/wp-lightbox-2), [WordPress YouTube](https://wordpress.org/plugins/youtube-video-player), [WordPress Coming soon plugin](https://wordpress.org/plugins/coming-soon-page) .
+Also, we recommend you to take a look for this useful plugins - [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget/), [WordPress Facebook like box](https://wordpress.org/plugins/like-box),  [Lightbox WordPress](https://wordpress.org/plugins/wp-lightbox-2), [WordPress YouTube](https://wordpress.org/plugins/youtube-video-player), [WordPress Coming soon plugin](https://wordpress.org/plugins/coming-soon-page) .
 
 == Frequently Asked Questions ==
 
@@ -91,7 +91,7 @@ After you installed the Countdown plugin you can go to your pages/posts and just
 After you installed the plugin you need to check your widgets page(Appearance>Widgets) and then drag and drop "WordPress Countdown plugin" widget into your sidebar.
 After that set your Countdown timer options. Now your Countdown widget is ready.
 
-Dear users, we also recommend you to take a look for this useful plugins - [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget/), [WordPress Facebook like box](http://wpdevart.com/wordpress-facebook-like-box-plugin),  [Lightbox WordPress](https://wordpress.org/plugins/wp-lightbox-2), [WordPress YouTube](https://wordpress.org/plugins/youtube-video-player), [WordPress Coming soon plugin](https://wordpress.org/plugins/coming-soon-page) .
+Dear users, we also recommend you to take a look for this useful plugins - [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget/), [WordPress Facebook like box](https://wordpress.org/plugins/like-box),  [Lightbox WordPress](https://wordpress.org/plugins/wp-lightbox-2), [WordPress YouTube](https://wordpress.org/plugins/youtube-video-player), [WordPress Coming soon plugin](https://wordpress.org/plugins/coming-soon-page) .
 
 == Screenshots ==
 
@@ -144,4 +144,4 @@ After installation activate the plugin, then go to your pages/posts and just cli
 After installation activate the plugin, then check your widgets page(Appearance>Widgets) and then drag and drop "WordPress Countdown plugin" widget into your sidebar.
 After that set your Countdown timer options. That's all.
 
-We recommend you to take a look for this useful plugins - [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget/), [WordPress Facebook like box](http://wpdevart.com/wordpress-facebook-like-box-plugin),  [Lightbox WordPress](https://wordpress.org/plugins/wp-lightbox-2), [WordPress YouTube](https://wordpress.org/plugins/youtube-video-player), [WordPress Coming soon plugin](https://wordpress.org/plugins/coming-soon-page) .
+We recommend you to take a look for this useful plugins - [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget/), [WordPress Facebook like box](https://wordpress.org/plugins/like-box),  [Lightbox WordPress](https://wordpress.org/plugins/wp-lightbox-2), [WordPress YouTube](https://wordpress.org/plugins/youtube-video-player), [WordPress Coming soon plugin](https://wordpress.org/plugins/coming-soon-page) .
