@@ -12,7 +12,7 @@ WordPress Countdown plugin is an nice tool to create and insert countdown timers
 
 == Description ==
 
-Our Countdown plugin allow website owners to create nice and functional Countdown timer just in a few minutes. This is the best way to create beautiful Countdown for your users.
+Our WordPress Countdown plugin allow website owners to create nice and functional Countdown timer just in a few minutes. This is the best way to create beautiful Countdown for your users.
 You can use our Countdown timer in your posts/pages and widgets. It's very easy to use and there isn't any need of coding knowledge for creating Countdowns.
 
 ### View our WordPress Countdown plugin Demo page: 
