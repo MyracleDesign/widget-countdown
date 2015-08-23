@@ -5,7 +5,7 @@ Tags: countdown, count down, countdown timer, jQuery countdown, countdown genera
 Requires at least: 3.4.0
 Tested up to: 4.2.3
 Stable tag: 1.0.4
-License: GPLv2 or later
+License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 WordPress Countdown plugin is an nice tool to create and insert countdown timers into your posts/pages and widgets. 
