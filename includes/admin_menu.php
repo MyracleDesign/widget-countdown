@@ -416,6 +416,12 @@ die;
 						'title'			=>	'WordPress YouTube Embed',
 						'description'	=>	'YouTube Embed plugin is an convenient tool for adding video to your website. Use YouTube Embed plugin to add YouTube videos in posts/pages, widgets.'
 						),
+            'facebook-comments'=>array(
+						'image_url'		=>	$this->plugin_url.'images/featured_plugins/facebook-comments-icon.png',
+						'site_url'		=>	'http://wpdevart.com/wordpress-facebook-comments-plugin/',
+						'title'			=>	'WordPress Facebook comments',
+						'description'	=>	'Our Facebook comments plugin will help you to display Facebook Comments on your website. You can use Facebook Comments on your pages/posts.'
+						),						
 			'countdown'=>array(
 						'image_url'		=>	$this->plugin_url.'images/featured_plugins/countdown.jpg',
 						'site_url'		=>	'http://wpdevart.com/wordpress-countdown-plugin/',
