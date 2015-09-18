@@ -123,6 +123,10 @@ Dear users, we also recommend you to take a look for this useful plugins - [Word
 
 *  Corrected some mistakes in code .
 
+= 1.0.5 =
+
+*  Bug fixed.
+
 == Wordpress Countdown step by step guide ==
 
 ### WordPress Countdown plugin options
