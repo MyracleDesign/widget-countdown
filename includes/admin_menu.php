@@ -414,7 +414,7 @@ die;
 						'image_url'		=>	$this->plugin_url.'images/featured_plugins/youtube.png',
 						'site_url'		=>	'http://wpdevart.com/wordpress-youtube-embed-plugin',
 						'title'			=>	'WordPress YouTube Embed',
-						'description'	=>	'YouTube Embed plugin is an convenient tool for adding video to your website. Use YouTube Embed plugin to add YouTube videos in posts/pages, widgets.'
+						'description'	=>	'YouTube Embed plugin is an convenient tool for adding videos to your website. Use YouTube Embed plugin to add YouTube videos in posts/pages, widgets.'
 						),
             'facebook-comments'=>array(
 						'image_url'		=>	$this->plugin_url.'images/featured_plugins/facebook-comments-icon.png',
@@ -437,14 +437,14 @@ die;
 			'poll'=>array(
 						'image_url'		=>	$this->plugin_url.'images/featured_plugins/poll.png',
 						'site_url'		=>	'http://wpdevart.com/wordpress-polls-plugin',
-						'title'			=>	'Poll',
+						'title'			=>	'WordPress Poll',
 						'description'	=>	'WordPress Polls plugin is an wonderful tool for creating polls and survey forms for your visitors. You can use our polls on widgets, posts and pages.'
 						),
 			'twitter'=>array(
 						'image_url'		=>	$this->plugin_url.'images/featured_plugins/twitter.png',
 						'site_url'		=>	'http://wpdevart.com/wordpress-twitter-plugin',
 						'title'			=>	'Twitter button plus',
-						'description'	=>	'Twitter button plus is nice and useful tool to show Twitter tweet button on your website.'
+						'description'	=>	'Twitter button plus is nice and useful tool to show Twitter tweet button on your posts and pages.'
 						),															
 			
 		);

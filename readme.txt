@@ -4,7 +4,7 @@ Donate link: http://wpdevart.com/wordpress-countdown-plugin
 Tags: countdown, count down, countdown timer, jQuery countdown, countdown generator, animated countdown, countdown widget, timer, countdown clock, wp countdown timer, event countdown, widget countdown, clock, countdown to time, countdown timer plugin, wordpress countdown, birthday countdown, html5 countdown, wp countdown, countdown timer widget, website countdown, date countdown, flash countdown,
 Requires at least: 3.3.0
 Tested up to: 4.2.3
-Stable tag: 1.0.6
+Stable tag: 1.0.7
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
