@@ -119,6 +119,14 @@ Dear users, we also recommend you to take a look for this useful plugins - [Word
 
 *  Bug fixed on version 1.0.3 .
 
+= 1.0.6 =
+
+*  Added featured plugin .
+
+= 1.0.7 =
+
+*  Bug fixed.
+
 == Wordpress Countdown step by step guide ==
 
 ### WordPress Countdown plugin options
