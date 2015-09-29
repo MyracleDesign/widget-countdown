@@ -125,7 +125,7 @@ Dear users, we also recommend you to take a look for this useful plugins - [Word
 
 = 1.0.7 =
 
-*  Bug fixed.
+*  Bugs fixed.
 
 == Wordpress Countdown step by step guide ==
 
@@ -153,7 +153,7 @@ Dear users, we also recommend you to take a look for this useful plugins - [Word
 
 ### Adding WordPress Countdown timer in your pages/posts
 
-After installation activate the plugin, then go to your pages/posts and just click on Countdown shortcode button and add Countdown timer for your pages/posts.
+Activate the plugin after installation, then go to your pages/posts and just click on Countdown shortcode button and add Countdown timer for your pages/posts.
 
 ### Adding WordPress Countdown timer to your sidebar
 
