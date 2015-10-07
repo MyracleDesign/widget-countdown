@@ -1,5 +1,5 @@
 <?php 
-/*############################### WIDGET ###############################################*/
+/*############################### COUNTDOWN WIDGET CODE ###############################################*/
 class wpdevart_countdown extends WP_Widget {
 	private static $id_for_content=0;
 	// Constructor //	
@@ -10,7 +10,7 @@ class wpdevart_countdown extends WP_Widget {
 
 	}
 
-	/*poll display in front*/
+	/*WordPress countdown display in front*/
 	function widget($args, $instance) {
 		self::$id_for_content++;
 		extract( $args );

@@ -14,7 +14,7 @@ class wpdevart_countdown_front_end{
 	function __construct($params){
 		
 		$this->databese_parametrs=$params['databese_parametrs'];
-		//if plugin url not come in parent class
+		//if plugin url doesn't come in parent class
 		if(isset($params['plugin_url']))
 			$this->plugin_url=$params['plugin_url'];
 		else
