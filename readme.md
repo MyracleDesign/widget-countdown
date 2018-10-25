@@ -1,4 +1,4 @@
-=== WordPress Countdown plugin ===
+# WordPress Countdown plugin
 Contributors: wpdevart
 Donate link: http://wpdevart.com/wordpress-countdown-plugin
 Tags: countdown, count down, countdown timer, jQuery countdown, countdown generator, animated countdown, countdown widget, timer, countdown clock, wp countdown timer, event countdown, widget countdown, clock, countdown to time, countdown timer plugin, wordpress countdown, birthday countdown, html5 countdown, wp countdown, countdown timer widget, website countdown, date countdown, flash countdown,
@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 WordPress Countdown plugin is an nice tool to create and insert countdown timers into your posts/pages and widgets. 
 
-== Description ==
+## Description
 
 Our WordPress Countdown plugin allow website owners to create nice and functional Countdown timer just in a few minutes. This is the best way to create beautiful Countdown for your users.
 You can use our Countdown timer in your posts/pages and widgets. It's very easy to use and there isn't any need of coding knowledge for creating Countdowns.
@@ -62,7 +62,7 @@ You can upgrade WordPress Countdown plugin to [WordPress Countdown Pro](http://w
 
 We recommend you to take a look for this useful plugins - [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget/), [WordPress Facebook like box](https://wordpress.org/plugins/like-box), [WordPress YouTube](https://wordpress.org/plugins/youtube-video-player), [WordPress Coming soon plugin](https://wordpress.org/plugins/coming-soon-page), [Facebook comments WordPress](https://wordpress.org/plugins/comments-from-facebook) .
 
-== Installation ==
+## Installation
 
 ### First download the WordPress Countdown plugin ZIP file.  
 
@@ -78,22 +78,22 @@ That's all, now you can create and insert Countdown timers into your pages/posts
 
 Also, we recommend you to take a look for this useful plugins - [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget/), [WordPress Facebook like box](https://wordpress.org/plugins/like-box), [WordPress YouTube](https://wordpress.org/plugins/youtube-video-player), [WordPress Coming soon plugin](https://wordpress.org/plugins/coming-soon-page), [Facebook comments WordPress](https://wordpress.org/plugins/comments-from-facebook) .
 
-== Frequently Asked Questions ==
+## Frequently Asked Questions
 
 Our WordPress Countdown plugin is user friendly, but here you can see some frequently asked questions that can help you.
 
-= How can I add Countdown timer in my pages/posts =
+### How can I add Countdown timer in my pages/posts
 
 After you installed the Countdown plugin you can go to your pages/posts and just click on Countdown shortcode button and add Countdown timer for your pages/posts.
 
-= How can I add Countdown timer to my sidebar =
+### How can I add Countdown timer to my sidebar
 
 After you installed the plugin you need to check your widgets page(Appearance>Widgets) and then drag and drop "WordPress Countdown plugin" widget into your sidebar.
 After that set your Countdown timer options. Now your Countdown widget is ready.
 
 Dear users, we also recommend you to take a look for this useful plugins - [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget/), [WordPress Facebook like box](https://wordpress.org/plugins/like-box), [WordPress YouTube](https://wordpress.org/plugins/youtube-video-player), [WordPress Coming soon plugin](https://wordpress.org/plugins/coming-soon-page), [Facebook comments WordPress](https://wordpress.org/plugins/comments-from-facebook) .
 
-== Screenshots ==
+## Screenshots
 
 1.  **WordPress Countdown** Front-end    
 2.  **WordPress Countdown** Front-end       
@@ -101,33 +101,33 @@ Dear users, we also recommend you to take a look for this useful plugins - [Word
 4.  **WordPress Countdown** Back-end
 5.  **WordPress Countdown** Back-end 
 
-== Changelog ==
+## Changelog
 
-= 1.0.0 =
+### 1.0.0
 
 *  Initial version.
 
-= 1.0.1 =
+### 1.0.1
 
 *  Bug fixed on version 1.0.1 .
 
-= 1.0.2 =
+### 1.0.2
 
 *  Bug fixed.
 
-= 1.0.3 =
+### 1.0.3
 
 *  Bug fixed on version 1.0.3 .
 
-= 1.0.6 =
+### 1.0.6
 
 *  Added featured plugin .
 
-= 1.0.7 =
+### 1.0.7
 
 *  Bug fixed.
 
-== Wordpress Countdown step by step guide ==
+## Wordpress Countdown step by step guide
 
 ### WordPress Countdown plugin options
 
